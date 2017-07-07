@@ -1,0 +1,11 @@
+body {
+	font-family: 'Press Start 2P', cursive;
+	line-height: 1.25;
+	color: white;
+	background-color:black;
+}
+/** CANVAS */
+canvas {
+	position:absolute;
+	image-rendering:optimizeSpeed;
+}
